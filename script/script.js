@@ -1,4 +1,3 @@
-const hidden = document.querySelectorAll('.hidden')
 const displayed = document.querySelectorAll('.displayed-img')
 const button = document.querySelector('button')
 const textarea = document.getElementById('effect')
